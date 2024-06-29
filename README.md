@@ -1,0 +1,2 @@
+# Virtual_Global_Apprenticeship_with_Numadic
+Numadic: Automating vehicle commerce
